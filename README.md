@@ -1,7 +1,7 @@
 # canine_threshold
 Exploring canine’s olfactive threshold in artificial urine for medical detection 
 Overview
-This repository contains supplemental data associated with the scientific article titled "Exploring canine’s olfactive threshold in artificial urine for medical detection ". The data provided here is in CSV format and accompanies the main findings presented in the article.
+This repository contains supplemental data for the scientific article titled "Exploring Canine Olfactory Thresholds in Artificial Urine for Medical Detection." The data is provided in Excel format and supports the main findings presented in the study. Additionally, a separate dictionary file is included for reference.
 
 Files
 data.csv: This file contains the primary dataset used in the study.
